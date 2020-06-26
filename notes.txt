@@ -1,0 +1,29 @@
+Useful binds to remember:
+m 			-> cycle brush media
+shift+m 	-> cycle brush media the other way
+n 			-> toggle texture filtering
+; 			-> select default brush face
+f2 			-> cycle 3d window type
+f6 			-> edit object instance properties
+f9			-> play schema
+f10			-> halt schema's
+ctrl+shift+l-> edit object instance links
+shift+s 	-> snap brush vertices to the grid (uwu angles)
+shift+u		-> select me-only'd area brush
+Alt+R		-> Reset brush rotation
+
+Filtering:
+F1+shift	-> filter terrain
+F2+shift	-> filter light
+F3+shift	-> filter area
+F4+shift	-> filter room
+F5+shift	-> filter object
+F6+shift	-> filter flow
+F7+shift	-> filter none
+
+Multibrushes:
+Shift+D		-> Store multibrush as a group
+Alt+B		-> Save multibrush as .vbr
+
+TODO:
+- Rebind the x/y/z, h/p/b, d/w/h gfh access
