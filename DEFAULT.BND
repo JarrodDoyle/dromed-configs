@@ -161,6 +161,10 @@ edit bind shift+z "hilight_check_snap"  ; Highlight unsnapped brushes
 edit bind ctrl+shift+z "highlight_clear" ; Clear highlight
 ; TODO: Highlight by property/archetype?
 
+; Render
+edit bind shift+o    "toggle_object_render"  ; Toggles object visibility
+edit bind ctrl+alt+o "rend_name_toggle 23"   ; Toggles object name visibility
+
 ; MISC
 ; Color
 edit bind ctrl+c "lcolor_picker"  ; Open colour picker dialogue. Prints hue/sat to MONO
