@@ -18,6 +18,7 @@ ai_aware_of_player
 
 ; Draw in-game AI path stuff
 ai_draw
+link_draw_on aipatrol
 
 ; Ignore filters by default when portalizing (Newdark)
 set_ignore_filters 1
