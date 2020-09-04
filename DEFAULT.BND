@@ -2,6 +2,7 @@
 ; Move
 edit bind w "cam_slew 0"  ; Forward
 edit bind s "cam_slew 3"  ; Backward
+edit bind x "cam_slew 3"  ; Backward
 edit bind z "cam_slew 1"  ; Left
 edit bind c "cam_slew 4"  ; Right
 edit bind q "cam_slew 2"  ; Up
